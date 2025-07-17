@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/mlruns/0/faa19ce687674bee8d8d445cc55eca33/artifacts
+end_time: 1752757270619
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faa19ce687674bee8d8d445cc55eca33
+run_name: learned-bat-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752757247466
+status: 3
+tags: []
+user_id: codespace
