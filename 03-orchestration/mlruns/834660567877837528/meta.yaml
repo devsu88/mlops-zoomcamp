@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/834660567877837528
+creation_time: 1753200553383
+experiment_id: '834660567877837528'
+last_update_time: 1753200553383
+lifecycle_stage: active
+name: nyc-taxi-linreg

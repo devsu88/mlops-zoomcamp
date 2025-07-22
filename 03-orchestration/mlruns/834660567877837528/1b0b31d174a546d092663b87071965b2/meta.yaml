@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/834660567877837528/1b0b31d174a546d092663b87071965b2/artifacts
+end_time: 1753200629619
+entry_point_name: ''
+experiment_id: '834660567877837528'
+lifecycle_stage: active
+run_id: 1b0b31d174a546d092663b87071965b2
+run_name: overjoyed-carp-621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753200605603
+status: 4
+tags: []
+user_id: codespace

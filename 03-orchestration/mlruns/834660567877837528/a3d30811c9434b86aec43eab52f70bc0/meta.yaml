@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/834660567877837528/a3d30811c9434b86aec43eab52f70bc0/artifacts
+end_time: 1753201314307
+entry_point_name: ''
+experiment_id: '834660567877837528'
+lifecycle_stage: active
+run_id: a3d30811c9434b86aec43eab52f70bc0
+run_name: righteous-tern-893
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753201287128
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/834660567877837528/d7fc568451324e718542ab2fff8d54a3/artifacts
+end_time: 1753201791550
+entry_point_name: ''
+experiment_id: '834660567877837528'
+lifecycle_stage: active
+run_id: d7fc568451324e718542ab2fff8d54a3
+run_name: colorful-zebra-104
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753201765236
+status: 3
+tags: []
+user_id: codespace
