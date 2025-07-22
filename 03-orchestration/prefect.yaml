@@ -4,11 +4,7 @@ prefect-version: 3.4.9
 build: null
 push: null
 
-pull:
-- prefect.deployments.steps.git_clone:
-    repository: https://github.com/devsu88/mlops-zoomcamp
-    branch: main
-    access_token: null
+pull: null
 
 deployments:
 - name: manual-test-run
@@ -16,10 +12,10 @@ deployments:
   tags: [test]
   description: "Run one-off flow manually with test reference_date"
   schedule:
-    rrule: "DTSTART:20250721T150200\nRRULE:FREQ=DAILY;COUNT=1"
+    rrule: "DTSTART:20250722T162300\nRRULE:FREQ=DAILY;COUNT=1"
     timezone: "Europe/Rome"
   flow_name: main_flow
-  entrypoint: 03-orchestration/duration-prediction-pipeline.py:main_flow
+  entrypoint: duration-prediction-pipeline.py:main_flow
   parameters:
     reference_date: "2023-06-01"
   work_pool:

@@ -24,7 +24,7 @@ models_folder.mkdir(exist_ok=True)
 @task
 def read_dataframe(year, month):
     logger = get_run_logger()
-    url = f'https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_{year}-{month:02d}.parquet'
+    url = f'data/green_tripdata_{year}-{month:02d}.parquet'
     df = pd.read_parquet(url)
 
     df['duration'] = df.lpep_dropoff_datetime - df.lpep_pickup_datetime

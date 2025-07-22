@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/614424707864319921/bf1132df712b4250a29b37a923c80a2f/artifacts
+end_time: 1753194643450
+entry_point_name: ''
+experiment_id: '614424707864319921'
+lifecycle_stage: active
+run_id: bf1132df712b4250a29b37a923c80a2f
+run_name: traveling-hound-831
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753194610986
+status: 3
+tags: []
+user_id: codespace
